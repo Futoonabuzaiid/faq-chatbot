@@ -6,7 +6,7 @@ The chatbot also extracts keywords from the user's question for better context u
 
 ---
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Backend Framework:** FastAPI  
 - **Programming Language:** Python  
